@@ -74,9 +74,8 @@ button.cancel {
 
 .testing
 {
-  display: flex;
-  /* align-items: ; */
-  flex-direction: column;
+  /* display: flex; */
+  /* flex-direction: column; */
 }
 
 .header
